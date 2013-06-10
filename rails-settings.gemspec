@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'rails-settings/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = 'ledermann-rails-settings'
+  gem.name          = 'rails-settings'
   gem.version       = RailsSettings::VERSION
   gem.authors       = ['Georg Ledermann']
   gem.email         = ['mail@georg-ledermann.de']
